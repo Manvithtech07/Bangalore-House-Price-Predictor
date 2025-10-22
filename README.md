@@ -2,7 +2,7 @@
 
 A machine learning project to predict house prices in Bangalore using data-driven insights and a deployment-ready web application.
 
-**[Live Demo Link](https://your-render-app-link-goes-here.onrender.com)**
+**[Live Demo Link](https://bangalore-house-price-predictor-jpmz.onrender.com/)**
 
 ---
 
