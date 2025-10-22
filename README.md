@@ -23,5 +23,5 @@ The goal is to build a reliable regression model that can accurately estimate a 
 * **Data Science:** Python, Pandas, NumPy, Matplotlib, Seaborn
 * **Machine Learning:** Scikit-learn, XGBoost
 * **Web Framework:** Flask
-* **Deployment:** Render, Gunicorn
+* **Deployment:** Render
 
