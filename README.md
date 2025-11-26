@@ -1,6 +1,6 @@
 # Bangalore House Price Prediction
 
-A machine learning project to predict house prices in Bangalore using data-driven insights and a deployment-ready web application.
+A machine learning project to predict Real Estate prices in Bangalore using data-driven insights and a deployment-ready web application.
 
 **[Live Demo Link](https://bangalore-house-price-predictor-jpmz.onrender.com/)**
 
