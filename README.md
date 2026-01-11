@@ -4,7 +4,7 @@ A machine learning project to predict Real Estate prices in Bangalore using data
 
 **[Live Demo Link](https://bangalore-house-price-predictor-jpmz.onrender.com/)**
 
-<img width="1890" height="819" alt="Screenshot 2025-10-22 173919" src="https://github.com/user-attachments/assets/620d8b24-974f-402e-bd52-bf22aaee63ab" />
+<img width="1895" height="818" alt="Screenshot 2026-01-11 225842" src="https://github.com/user-attachments/assets/c3e94b08-5fa1-4288-96a2-2a4aab2441c9" />
 
 ---
 
